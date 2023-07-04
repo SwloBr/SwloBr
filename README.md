@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Paulo Soares Rabelo</h1>
 
-🔭 I’m currently studying on IF goiano <br>🌱 I’m currently learning Java, PhP, Html, Docker and Python<br>⚡ Fun fact: I'm terrible at FPS games<br><br>📫 How to reach me Linkedin
+🔭 I’m currently studying on IF goiano <br>🌱 I’m currently learning Java, Spring, Hibernate<br>⚡ Fun fact: I'm terrible at FPS games<br><br>📫 How to reach me Linkedin
 
 
 ## 🌐 Socials:
